@@ -1,0 +1,15 @@
+# Node backend
+node_modules/
+.env
+
+# Python / Colab
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Frontend
+.vscode/
+.DS_Store
+build/
+dist/
+*.log
